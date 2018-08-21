@@ -1,0 +1,279 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-title>Hello MJML</mj-title>
+      <mj-text font-size="16px" line-height="22px"/>
+      <mj-class name="h1" font-size="28px" line-height="32px"/>
+      <mj-class name="label" background-color="#000" color="#fff"/>
+      <mj-class name="red" color="red"/>
+      <mj-class name="blue" color="blue"/>
+      <mj-class name="p0" padding="0"/>
+      <!--<mj-class name="blue" color="blue" />-->
+      <!--<mj-class name="big" font-size="20px" />-->
+      <!--<mj-all font-family="Arial" />-->
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body width="800px">
+
+
+
+
+    <mj-section>
+
+      <mj-column width="600px">
+        <mj-text font-size="32px" line-height="36px">Digital Engagement Practice Digest #14</mj-text>
+        <mj-spacer height="50px"/>
+        <mj-text font-weight="bold">Hello, DEP people!</mj-text>
+        <mj-text>Success. This word means different things to different people. But when you see it, you think about how
+          it feels to achieve your goals, to enjoy yourself, and to be proud. Success doesn’t mean that it’s easy – but
+          it does mean that it’s achievable. For all of you who enjoy what you do, solve problems, and think outside of
+          the box. Who make a difference in the world. You are the creators.
+        </mj-text>
+        <mj-text font-weight="bold">You are the Digital Engagement Practice and its success!</mj-text>
+      </mj-column>
+
+    </mj-section>
+
+    <!--<mj-spacer height="50px" />-->
+
+    <mj-section>
+      <mj-column>
+
+        <mj-image src="http://static.cdn.epam.com/uploads/100b191a925f4de9224ae3c40b90f428/mainpic.png"/>
+
+      </mj-column>
+    </mj-section>
+
+
+
+
+    <mj-wrapper padding="0 100px">
+      <mj-section>
+        <mj-column>
+
+          <mj-text mj-class="red">Our projects</mj-text>
+
+          <mj-text mj-class="h1">Amway Scandinavia go-live: challenges, changes, chances</mj-text>
+          <mj-text>The Amway Europe project team has successfully launched the new Hybris based customer’s website in
+            Scandinavia. Working process, taken steps and outcomes - explore the details of this almost 2-year journey by
+            EPAMers.
+          </mj-text>
+
+          <mj-spacer height="38px" />
+
+          <mj-text mj-class="h1">AS Watson project – success story and future plans</mj-text>
+          <mj-text>In 2017 the A.S. Watson Group (ASW) granted EPAM the status of the Official Technology Partner for
+            2018-2019, establishing the basis for EPAM and ASW’s engagement for the years ahead. And the EPAM team on the
+            ASW account is not ready to slow down!
+          </mj-text>
+
+          <mj-spacer height="38px" />
+
+          <mj-text mj-class="h1">Meteogroup Broadcast project helps forecasts come true</mj-text>
+          <mj-text>This February BBC’s weatherperson Sarah Keith-Lukas did her first live TV forecast using the new system
+            by MeteoGroup. This was a breathtaking moment for EPAM professionals who spent months improving the product
+            for the customer. Let’s reveal secrets from the project.
+          </mj-text>
+
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-text mj-class="red" padding="0">COMPETENCY & technology</mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column padding-right="25px">
+          <mj-image src="https://static.cdn.epam.com/uploads/100b191a925f4de9224ae3c40b90f428/UXcamp2.0.png" mj-class="p0"/>
+          <mj-text padding-left="0">This February BBC’s weatherperson Sarah Keith-Lukas did her first live TV forecast using the new system
+            by MeteoGroup. This was a breathtaking moment for EPAM professionals who spent months improving the product
+            for the customer. Let’s reveal secrets from the project.
+          </mj-text>
+          <mj-button align="left" padding-left="0">Read</mj-button>
+        </mj-column>
+
+        <mj-column padding-left="25px">
+          <mj-image src="https://static.cdn.epam.com/uploads/100b191a925f4de9224ae3c40b90f428/UXcamp2.0.png" mj-class="p0"/>
+          <mj-text padding-left="0">This February BBC’s weatherperson Sarah Keith-Lukas did her first live TV forecast using the new system
+            by MeteoGroup. This was a breathtaking moment for EPAM professionals who spent months improving the product
+            for the customer. Let’s reveal secrets from the project.
+          </mj-text>
+          <mj-button align="left" padding-left="0">Read</mj-button>
+        </mj-column>
+      </mj-section>
+
+    </mj-wrapper>
+
+    <mj-section>
+      <mj-column>
+
+        <mj-image src="https://static.cdn.epam.com/uploads/100b191a925f4de9224ae3c40b90f428/UXcamp2.0.png"/>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-wrapper padding="0 100px">
+      <mj-section>
+        <mj-column>
+
+          <mj-text mj-class="h1">Amway Scandinavia go-live: challenges, changes, chances</mj-text>
+          <mj-text>The Amway Europe project team has successfully launched the new Hybris based customer’s website in
+            Scandinavia. Working process, taken steps and outcomes - explore the details of this almost 2-year journey by
+            EPAMers.
+          </mj-text>
+
+        </mj-column>
+      </mj-section>
+
+    </mj-wrapper>
+
+    <mj-wrapper background-color="#ccc">
+
+      <mj-section>
+        <mj-column width="20%">
+
+          <mj-image src="http://static.cdn.epam.com/uploads/100b191a925f4de9224ae3c40b90f428/MichailChuguev.png" />
+
+        </mj-column>
+
+        <mj-column width="80%">
+
+          <mj-text padding-right="20px">Gregory Klymov</mj-text>
+
+          <mj-text padding-right="20px">The Amway Europe project team has successfully launched the new Hybris based customer’s website in
+            Scandinavia. Working process, taken steps and outcomes - explore the details of this almost 2-year journey by
+            EPAMers.
+          </mj-text>
+
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="20%">
+
+          <mj-image src="http://static.cdn.epam.com/uploads/100b191a925f4de9224ae3c40b90f428/GregoryKlymov.png"/>
+
+        </mj-column>
+
+        <mj-column width="80%">
+
+          <mj-text padding-right="20px">Gregory Klymov</mj-text>
+
+          <mj-text padding-right="20px">The Amway Europe project team has successfully launched the new Hybris based customer’s website in
+            Scandinavia. Working process, taken steps and outcomes - explore the details of this almost 2-year journey by
+            EPAMers.</mj-text>
+
+        </mj-column>
+      </mj-section>
+
+    </mj-wrapper>
+
+
+
+    <mj-section>
+      <mj-column>
+
+        <mj-text>The Amway Europe project team has successfully launched the new Hybris based customer’s website in
+          Scandinavia. Working process, taken steps and outcomes - explore the details of this almost 2-year journey by
+          EPAMers.
+        </mj-text>
+
+        <mj-divider color="#000"/>
+
+        <mj-text>The Amway Europe project team has successfully launched the new Hybris based customer’s website in
+          Scandinavia. Working process, taken steps and outcomes - explore the details of this almost 2-year journey by
+          EPAMers.
+        </mj-text>
+
+        <mj-divider color="#000"/>
+
+        <mj-text>The Amway Europe project team has successfully launched the new Hybris based customer’s website in
+          Scandinavia. Working process, taken steps and outcomes - explore the details of this almost 2-year journey by
+          EPAMers.
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+
+        <mj-text><img src="https://static.cdn.epam.com/images/icons/email/dep/bullet.png"> The Amway Europe project team has successfully launched the new Hybris based customer’s website in
+          Scandinavia. Working process, taken steps and outcomes - explore the details of this almost 2-year journey by
+          EPAMers.
+        </mj-text>
+
+        <mj-divider color="#000"/>
+
+        <mj-text><img src="https://static.cdn.epam.com/images/icons/email/dep/bullet.png"> The Amway Europe project team has successfully launched the new Hybris based customer’s website in
+          Scandinavia. Working process, taken steps and outcomes - explore the details of this almost 2-year journey by
+          EPAMers.
+        </mj-text>
+
+        <mj-divider color="#000"/>
+
+        <mj-text><img src="https://static.cdn.epam.com/images/icons/email/dep/bullet.png"> The Amway Europe project team has successfully launched the new Hybris based customer’s website in
+          Scandinavia. Working process, taken steps and outcomes - explore the details of this almost 2-year journey by
+          EPAMers.
+        </mj-text>
+
+      </mj-column>
+
+      <mj-column>
+
+        <mj-text><img src="https://static.cdn.epam.com/images/icons/email/dep/bullet.png"> The Amway Europe project team has successfully launched the new Hybris based customer’s website in
+          Scandinavia. Working process, taken steps and outcomes - explore the details of this almost 2-year journey by
+          EPAMers.
+        </mj-text>
+
+        <mj-divider color="#000"/>
+
+        <mj-text> <img src="https://static.cdn.epam.com/images/icons/email/dep/bullet.png"> The Amway Europe project team has successfully launched the new Hybris based customer’s website in
+          Scandinavia. Working process, taken steps and outcomes - explore the details of this almost 2-year journey by
+          EPAMers.
+        </mj-text>
+
+        <mj-divider color="#000"/>
+
+        <mj-text> <img src="https://static.cdn.epam.com/images/icons/email/dep/bullet.png"> The Amway Europe project team has successfully launched the new Hybris based customer’s website in
+          Scandinavia. Working process, taken steps and outcomes - explore the details of this almost 2-year journey by
+          EPAMers.
+        </mj-text>
+
+        <mj-button background-color="#a3c544" align="left">Drop us email</mj-button>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0">
+      <mj-column>
+        <mj-divider color="#000"/>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+
+        <mj-text mj-class="h1" padding-bottom="0"> Drop us a line</mj-text>
+
+        <mj-text> lorem ipsum
+        </mj-text>
+
+        <mj-button background-color="#a3c544" align="left">Drop us email</mj-button>
+
+      </mj-column>
+
+      <mj-column>
+
+        <mj-text mj-class="h1" padding-bottom="0"> Follow</mj-text>
+
+      </mj-column>
+
+    </mj-section>
+
+  </mj-body>
+</mjml>
